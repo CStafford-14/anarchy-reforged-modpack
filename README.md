@@ -12,6 +12,8 @@ The following [#] mods are used in our modpack on our server, listed alphebetica
 - 1
 - 2
 
+- [ForgeHax](https://github.com/fr1kin/ForgeHax) by fr1kin. This mod is NOT included by default as it is a hacked client. While you are free to hack on our server, we cannot garuntee the stability of your client. Use with caution.
+
 ### Server-side Mods (Not included in the modpack, but used)
 - [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/minecraft2discord) by Denisd3d_
 - [QuickTeleports](https://www.curseforge.com/minecraft/mc-mods/quickteleports) by ist_meow
