@@ -5,17 +5,42 @@ Based on Forge 31.2.33 on Minecraft 1.15.2
 # What's included
 The following [#] mods are used in our modpack on our server, listed alphebetically.
 ### Required Mods
-- 1
-- 2
+- AI Improvements by DarkGuardsman
+- Clumps by Jaredlll08
+- Comforts by TheIllusiveC4
+- Corpse by henkelmax
+- FastFurnace and FastWorkbench
+- Immersive Engineering by BluSunrize
+- Immersive Posts by TwistedGate
+- MixinBootstrap by LX_Gaming
+- MrCrayFish's Furniture Mod by MrCrayFish
+- MrCrayFish's Gun Mod by MrCrayFish
+- MrCrayFish's Vehicle Mod by MrCrayFish
+- NetherPortalFix by BlayTheNinth
+- No Recipe Book by Seneschal_Luwin
+- Obfuscate by MrCrayfish
+- Placebo by Shadows_of_Fire
+- SecurityCraft by GeForce132
+- SwingThroughGrass by exidex
+- Toast Control by Shadows_of_Fire
 
 ### Optional Mods (Indluded by default)
-- 1
-- 2
+- AppleSkin by squeek502
+- Controlling by Jaredlll08
+- Just Enough Items by mezz
+- HWYLA by TehNut
+- Minecraft Capes by james090500
+- Phosphor by jellysquid_
+- OptiFine
+- Xaero's Minimap by xaero96
 
 - [ForgeHax](https://github.com/fr1kin/ForgeHax) by fr1kin. This mod is NOT included by default as it is a hacked client. While you are free to hack on our server, we cannot garuntee the stability of your client. Use with caution.
 
 ### Server-side Mods (Not included in the modpack, but used)
+- Better Caves by YUNGNICKYOUNG
+- Better Mineshafts by YUNGNICKYOUNG
 - [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/minecraft2discord) by Denisd3d_
+- Save my Stronghold! by YUNGNICKYOUNG
 - [QuickTeleports](https://www.curseforge.com/minecraft/mc-mods/quickteleports) by ist_meow
 
 The mods distributed through this modpack are property of their respective owners. Please report any issues with the mods them selves with their respective owners. DO NOT report any issues with the mods here as you will not get support. We are not affiliated in any way with the mods or their owners, CurseForge, Forge, Discord, or Minecraft.
