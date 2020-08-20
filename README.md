@@ -14,6 +14,7 @@ The following [#] mods are used in our modpack on our server, listed alphebetica
 - FastFurnace and FastWorkbench
 - Immersive Engineering by BluSunrize
 - Immersive Posts by TwistedGate
+- Ma Essentials by Maciej916
 - MixinBootstrap by LX_Gaming
 - MrCrayFish's Furniture Mod by MrCrayFish
 - MrCrayFish's Gun Mod by MrCrayFish
@@ -43,7 +44,6 @@ The following [#] mods are used in our modpack on our server, listed alphebetica
 
 ### Server-side Mods (Not included in the modpack, but used)
 - [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/minecraft2discord) by Denisd3d_
-- [QuickTeleports](https://www.curseforge.com/minecraft/mc-mods/quickteleports) by ist_meow
 
 The mods distributed through this modpack are property of their respective owners. Please report any issues with the mods them selves with their respective owners. DO NOT report any issues with the mods here as you will not get support. We are not affiliated in any way with the mods or their owners, CurseForge, Forge, Discord, or Minecraft.
 
